@@ -35,8 +35,7 @@ Define the foundational rules and semantic constraints to anchor an AI agent's r
 
 \*\*Prototype Demonstration\*\*    
 A working demonstration of this protocol has been built on the Base44 platform:    
-\[https://ha-app-58229304.base44.app\](https://ha-app-58229304.base44.app)
-
+\[https://ha-app-58229304.base44.app](https://ha-app-58229304.base44.app)
 \---
 
 \*\*Status\*\*: Conceptual Blueprint (V0.1)    
