@@ -32,6 +32,6 @@ MIT License — Open for public good and collaboration.
 ---
 ### How to Contribute
 Feel free to fork this repository, improve any part, or use it as inspiration for your own projects.
-For questions or collaboration ideas, you can reach out via the issues tab or through LinkedIn.
+For questions or collaboration ideas, you can reach out via the issues tab or through X and LinkedIn.
 ---
 **AI is a Mirror. Anchor it with Integrity.**
